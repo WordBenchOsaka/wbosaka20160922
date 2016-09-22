@@ -14,3 +14,9 @@ WordPressのテーマ制作でGulpやSCSSを使った制作環境構築の手法
 
 ## 参考リンク
 
+今日のスライドになります：https://docs.google.com/presentation/d/136ELj-ll34WecyyfyhDfacKhcg1GJbom05y-VAnwY5s/edit?usp=sharing
+
+- ZIPでダウンロード、もしくはcoloneする
+- ターミナルでgulp-testファイルに移動する
+- `$ npm i`を叩くとnode_modulesがインストールされ、gulpコマンドが叩ける
+- コマンドを叩く　`$ gulp sass ``$ gulp sass `
