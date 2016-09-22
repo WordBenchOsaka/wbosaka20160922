@@ -16,6 +16,8 @@ WordPressのテーマ制作でGulpやSCSSを使った制作環境構築の手法
 
 今日のスライドになります：https://docs.google.com/presentation/d/136ELj-ll34WecyyfyhDfacKhcg1GJbom05y-VAnwY5s/edit?usp=sharing
 
+SCSS 参考リンク http://www.webdesignleaves.com/wp/htmlcss/270/
+
 
 ## サンプルファイル使用手順
 
